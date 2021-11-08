@@ -1,1 +1,1 @@
-# A 2D Domino Game using OpenGl
+#2D Domino Game using OpenGl
