@@ -1,4 +1,4 @@
-#2D Domino Game using OpenGl
+# 2D Domino Game using OpenGl
 ### Team members
 * [Pavalasc Irina](https://github.com/IrinaPavalasc)
 * [Vijulan Stefania](https://github.com/StefaniaVijulan)
